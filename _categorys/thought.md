@@ -1,6 +1,6 @@
 ---
 short_name: thought
-name: 想法
+name: 废话连篇
 ---
 
 一些个人的想法分享.
