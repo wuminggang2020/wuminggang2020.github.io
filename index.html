@@ -1,7 +1,12 @@
 ---
 layout: default
-title: 吴明刚
+title: 神马情况
 ---
-<h1>
-2021 大家新年好哟!
-</h1>
+<ul>
+	{% for post in site.posts %}
+		<li>
+			<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+			{{post.excerpt}}
+		</li>
+	{% endfor %}
+</ul>

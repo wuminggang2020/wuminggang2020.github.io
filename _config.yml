@@ -1,13 +1,13 @@
 collections:
-  authors:
+  categorys:
     output: true
 
 defaults:
   - scope:
       path: ""
-      type: "authors"
+      type: "categorys"
     values:
-      layout: "author"
+      layout: "category"
   - scope:
       path: ""
       type: "posts"
@@ -16,4 +16,4 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: "defaults"
+      layout: "default"
