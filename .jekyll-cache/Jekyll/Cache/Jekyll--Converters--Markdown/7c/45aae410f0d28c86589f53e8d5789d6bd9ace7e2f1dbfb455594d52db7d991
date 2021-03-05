@@ -1,6 +1,8 @@
-I"Z<h1 id="双历日志-v01-初始公布">双历日志 V0.1 初始公布</h1>
+I"�<h1 id="双历日志-v01-初始公布">双历日志 V0.1 初始公布</h1>
 
 <hr />
+
+<p><img src="/assets/images/doublec-banner.png" width="100%" /></p>
 
 <h3 id="介绍">介绍</h3>
 
@@ -24,10 +26,18 @@
 <h3 id="常见问题">常见问题</h3>
 
 <ul>
-  <li>请问可以用其它软件打开.history和.future文件吗?
+  <li>可以用其它软件打开.history和.future文件吗?
     <blockquote>
       <p>可以, notepad记事本就可以</p>
     </blockquote>
   </li>
+  <li>可以同时追溯几件事吗? 例如投资股票和学习?
+    <blockquote>
+      <p>可以, 程序只使用的同目录下的两个日志文件, 所以可以通过建多个文件夹, 并复制程序的方式记录不同的事情.</p>
+    </blockquote>
+  </li>
 </ul>
+
+<hr />
+<p>powerby: wuliaoruanjian</p>
 :ET
