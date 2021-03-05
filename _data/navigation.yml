@@ -1,4 +1,4 @@
-- name: 首页
+- name: HOME
   link: /
-- name: 主题分类
+- name: CATEGORY
   link: /category.html
